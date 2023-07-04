@@ -1,5 +1,5 @@
-# cms-youtube-backend
-backend for cms created for youtube.
+# cma-backend
+backend created for contact management app
 
 ### go to config folder and create a file
 ```
